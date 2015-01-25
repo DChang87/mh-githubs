@@ -4,6 +4,7 @@ Please preserve sorted order (by first name).
 - Aaron Taylor https://github.com/ExPHAT
 - Abbass Ayoub https://github.com/Abyssinian
 - Christopher Gregorian https://github.com/csgregorian
+- Diana Chang https://github.com/DChang87
 - Dilpreet Chana https://github.com/dilpreetC
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
